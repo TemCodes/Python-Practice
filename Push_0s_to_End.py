@@ -10,7 +10,6 @@ def reshape_array(array):
   while count < n:
     array[count] = 0
     count +=1
-
   return array
 
 
